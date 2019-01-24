@@ -433,7 +433,7 @@ html, body {
       top: -176px; /* 44 * 4 rows */
       width: 100%;
   
-      background-color: #fff;
+      /* background-color: #fff; */
       height: 256px; /* 176 + 80 nav height */
   
       z-index: 100;
@@ -447,7 +447,7 @@ html, body {
       fill: #15788C;
     }
   
-    .nav-toggle {
+    /* .nav-toggle {
       display: inline;
       position: absolute;
       bottom: 24px;
@@ -458,7 +458,7 @@ html, body {
   
     .nav-toggle > svg {
       fill: #15788C;
-    }
+    } */
     .nav.portfolio {
       color: #000;
     }
@@ -472,10 +472,10 @@ html, body {
       height: 360px;
     }
   
-    section.portfolio {
+    /* section.portfolio {
       padding-top: 64px;
       padding-bottom: 32px;
-    }
+    } */
   
     .piece-art, .piece-art > img{
       height: 200px;
