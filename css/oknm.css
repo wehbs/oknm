@@ -472,10 +472,10 @@ html, body {
       height: 360px;
     }
   
-    /* section.portfolio {
+    section.portfolio {
       padding-top: 64px;
       padding-bottom: 32px;
-    } */
+    }
   
     .piece-art, .piece-art > img{
       height: 200px;
