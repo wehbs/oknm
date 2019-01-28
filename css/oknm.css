@@ -362,7 +362,7 @@ html, body {
       position: relative;
       right: auto;
       top: auto;
-      color: #43BF77;
+      /* color: #43BF77; */
       width: 100%;
   
     }
@@ -385,7 +385,7 @@ html, body {
     .nav-row svg {
       display: inline;
       margin-left: 14px;
-      fill: #43BF77;
+      /* fill: #43BF77; */
     }
   
     .nav-link-name {
