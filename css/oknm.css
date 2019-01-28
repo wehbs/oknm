@@ -362,7 +362,7 @@ html, body {
       position: relative;
       right: auto;
       top: auto;
-      color: #15788C;
+      color: #43BF77;
       width: 100%;
   
     }
@@ -385,7 +385,7 @@ html, body {
     .nav-row svg {
       display: inline;
       margin-left: 14px;
-      fill: #15788C;
+      fill: #43BF77;
     }
   
     .nav-link-name {
@@ -443,11 +443,11 @@ html, body {
       top: 0;
     }
   
-    svg.logo-normal {
+    /* svg.logo-normal {
       fill: #15788C;
-    }
+    } */
   
-    /* .nav-toggle {
+    .nav-toggle {
       display: inline;
       position: absolute;
       bottom: 24px;
@@ -456,8 +456,8 @@ html, body {
       cursor: pointer;
     }
   
-    .nav-toggle > svg {
-      fill: #15788C;
+    /* .nav-toggle > svg {
+      fill: #F5CA23;
     } */
     .nav.portfolio {
       color: #000;
