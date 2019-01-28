@@ -540,10 +540,10 @@ html, body {
   /* Footer */
   
   footer {
-    background-color: #1C2633;
+    background-color: #000000;
     padding: 32px 0px 37px 0px;
   
-    color: #15788C;
+    color: #FFFFFF;
   }
   
   svg.dark {
