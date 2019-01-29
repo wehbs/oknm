@@ -41,7 +41,7 @@ html, body {
   .logo {
     position: fixed;
     top: 16px;
-    left: 16px;
+    left: 30px;
   
     width: 62px;
     height: 62px;
@@ -450,7 +450,7 @@ html, body {
     .nav-toggle {
       display: inline;
       position: absolute;
-      bottom: 24px;
+      bottom: 30px;
       right: 16px;
       height: 32px;
       cursor: pointer;
