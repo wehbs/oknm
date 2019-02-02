@@ -441,15 +441,15 @@ a>.instagram:hover {
   }
 
   .logo {
-    /* display: none !important; */
-    position: absolute;
+    display: none !important;
+    /* position: absolute;
     top: auto;
-    bottom: 50px;
-    left: 5px;
+    bottom: 16px;
+    left: 1px;
     right: 16px;
-    width: 40px;
-    height: 40px;
-    /* transform: rotate(-90deg); */
+    width: 50px;
+    height: 50px;
+    transform: rotate(-90deg); */
   }
 
   header {
@@ -480,13 +480,13 @@ a>.instagram:hover {
     } */
 
   .nav-toggle {
-    display: none;
-    /* display: inline;
+    /* display: none; */
+    display: inline;
     position: absolute;
     bottom: 30px;
     right: 16px;
     height: 32px;
-    cursor: pointer; */
+    cursor: pointer;
   }
 
   /* .nav-toggle > svg {
